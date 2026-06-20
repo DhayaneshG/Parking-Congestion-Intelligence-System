@@ -1,0 +1,11 @@
+unit_id,pcis_rank,road_name,highway_type,lat,lon,violation_count,PCIS_score,severity_tier,primary_shift,dominant_day,peak_ratio,reduction_factor,pcis_reduction,hotspots_covered,peak_forecast_30d
+BTP-UNIT-01,1,Outer Ring Road,trunk,13.000306,77.676964,740,100.0,CRITICAL,Night,Friday,0.4,0.6,60.0,11,12.2
+BTP-UNIT-02,2,Bellary Road,primary,13.035315,77.589022,948,78.59,CRITICAL,Night,Wednesday,0.181,0.6,47.15,22,4.8
+BTP-UNIT-03,3,Pusa Thippasandra Main Road,primary,12.971745,77.658101,727,75.15,CRITICAL,Night,Thursday,0.19,0.6,45.09,18,4.0
+BTP-UNIT-04,4,8th Main Road,primary,12.934986,77.53646,169,74.88,CRITICAL,Evening,Tuesday,0.675,0.6,44.93,17,2.2
+BTP-UNIT-05,5,12th Main Road,primary,12.992329,77.588853,1605,69.79,CRITICAL,Night,Wednesday,0.271,0.6,41.87,61,16.7
+BTP-UNIT-06,6,Bengaluru Bellary Road,primary,13.191274,77.646246,453,68.45,CRITICAL,Evening,Sunday,0.404,0.6,41.07,1,-0.1
+BTP-UNIT-07,7,14th Main Road,primary,12.911652,77.638081,292,67.35,CRITICAL,Morning,Saturday,0.305,0.6,40.41,40,0.7
+BTP-UNIT-08,8,1st Cross Road,secondary,12.973605,77.551089,1080,66.19,CRITICAL,Morning,Friday,0.259,0.6,39.71,51,11.0
+BTP-UNIT-09,9,9th Main Road,primary,12.93944,77.584001,77,58.36,HIGH,Morning,Sunday,0.675,0.5,29.18,50,2.0
+BTP-UNIT-10,10,Jakkur Main Road,primary,13.09703,77.599546,299,58.26,HIGH,Evening,Tuesday,0.866,0.5,29.13,8,1.6
