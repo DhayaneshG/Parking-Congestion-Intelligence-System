@@ -1,12 +1,8 @@
-streamlit
+streamlit==1.46.1
+streamlit-folium==0.25.0
+folium==0.20.0
+
 pandas
 numpy
-plotly
-folium
-streamlit-folium
-scikit-learn
-xgboost
-prophet
-geopy
 matplotlib
-seaborn
+scipy
